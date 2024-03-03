@@ -1,0 +1,14 @@
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\bin\Debug\net8.0\Homework#1 - Task 2.exe
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\bin\Debug\net8.0\Homework#1 - Task 2.deps.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\bin\Debug\net8.0\Homework#1 - Task 2.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\bin\Debug\net8.0\Homework#1 - Task 2.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\bin\Debug\net8.0\Homework#1 - Task 2.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\refint\Homework#1 - Task 2.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\Homework#1 - Task 2.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#1 - Task 2\Homework#1 - Task 2\obj\Debug\net8.0\ref\Homework#1 - Task 2.dll
