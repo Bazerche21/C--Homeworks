@@ -1,0 +1,14 @@
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\bin\Debug\net6.0\StudenGroup.exe
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\bin\Debug\net6.0\StudenGroup.deps.json
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\bin\Debug\net6.0\StudenGroup.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\bin\Debug\net6.0\StudenGroup.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\bin\Debug\net6.0\StudenGroup.pdb
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\refint\StudenGroup.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.pdb
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\StudenGroup.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\StudenGroup\StudenGroup\obj\Debug\net6.0\ref\StudenGroup.dll
