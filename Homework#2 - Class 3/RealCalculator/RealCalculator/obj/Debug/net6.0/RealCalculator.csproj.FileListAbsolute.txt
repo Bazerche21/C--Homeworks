@@ -1,0 +1,28 @@
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.exe
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.deps.json
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.pdb
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\refint\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.pdb
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homework #2 - Class 3\Homework #2\RealCalculator\RealCalculator\obj\Debug\net6.0\ref\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.exe
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.deps.json
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\bin\Debug\net6.0\RealCalculator.pdb
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\refint\RealCalculator.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.pdb
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\RealCalculator.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2 - Class 3\RealCalculator\RealCalculator\obj\Debug\net6.0\ref\RealCalculator.dll
