@@ -1,0 +1,14 @@
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\bin\Debug\net6.0\QUEUE - Exercise.exe
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\bin\Debug\net6.0\QUEUE - Exercise.deps.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\bin\Debug\net6.0\QUEUE - Exercise.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\bin\Debug\net6.0\QUEUE - Exercise.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\bin\Debug\net6.0\QUEUE - Exercise.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\refint\QUEUE - Exercise.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\QUEUE - Exercise.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\QUEUE - Exercise\obj\Debug\net6.0\ref\QUEUE - Exercise.dll

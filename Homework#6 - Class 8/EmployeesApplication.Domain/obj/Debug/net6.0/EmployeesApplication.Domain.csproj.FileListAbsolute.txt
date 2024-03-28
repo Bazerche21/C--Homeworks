@@ -1,0 +1,11 @@
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\bin\Debug\net6.0\EmployeesApplication.Domain.deps.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\bin\Debug\net6.0\EmployeesApplication.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\bin\Debug\net6.0\EmployeesApplication.Domain.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\refint\EmployeesApplication.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\EmployeesApplication.Domain.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C#\Homework#6 - Class 8\EmployeesApplication.Domain\obj\Debug\net6.0\ref\EmployeesApplication.Domain.dll
